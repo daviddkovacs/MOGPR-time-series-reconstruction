@@ -10,4 +10,5 @@ If you want to use this algorithm for sensor fusion, i.e. gap-filling, you can d
 
 Please do not hesitate to contact me if you have any questions.
 koda@uv.es
-[FAPAR_SERC_ancFAPAR.pdf](https://github.com/daviddkovacs/MOGPR-time-series-reconstruction/files/13588311/FAPAR_SERC_ancFAPAR.pdf)
+![Untitled](https://github.com/daviddkovacs/MOGPR-time-series-reconstruction/assets/123364246/66d5d37a-5c6d-42e7-b3e7-433c344c41ad)
+
